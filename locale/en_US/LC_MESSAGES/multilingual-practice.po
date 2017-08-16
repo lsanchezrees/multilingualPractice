@@ -19,7 +19,7 @@ msgstr ""
 
 #: index.php:20
 msgid "A Site About Nothing"
-msgstr ""
+msgstr "A Site About Nothing"
 
 #: index.php:23
 msgid "Ducks"
